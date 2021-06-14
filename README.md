@@ -40,3 +40,9 @@ against the proper TIGER data, join the proper census/acs data, all of which wil
 (hopefully) be less computationally intense than doing it nationally. 
 
 ## [Understanding GEOIDs](https://www.census.gov/programs-surveys/geography/guidance/geo-identifiers.html#:~:text=GEOIDs%20are%20numeric%20codes%20that,area%20has%20a%20unique%20GEOID.)
+Documentation for how to read 12-digit GEOIDS.
+
+## [TIGER shapefile documentation](https://www2.census.gov/geo/pdfs/maps-data/data/tiger/tgrshp2020/TGRSHP2020_TechDoc.pdf)
+Description of TIGER shapefile columns and methodology. Brief description of 
+columns:
+[ColumnDescriptions]!(img/reference/TigerCols.png)
