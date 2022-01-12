@@ -45,4 +45,4 @@ Documentation for how to read 12-digit GEOIDS.
 ## [TIGER shapefile documentation](https://www2.census.gov/geo/pdfs/maps-data/data/tiger/tgrshp2020/TGRSHP2020_TechDoc.pdf)
 Description of TIGER shapefile columns and methodology. Brief description of 
 columns:
-[ColumnDescriptions]!(img/reference/TigerCols.png)
+[ColumnDescriptions]!(img/reference/TigerCols.png) 
